@@ -86,6 +86,7 @@ Assignment_Primetrade.ai
 ├── .gitignore
 ├── notebook1.ipynb
 ├── notebook2.ipynb
+├──ds_report.pdf
 └── README.md
 
 ```
